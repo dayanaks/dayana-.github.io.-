@@ -1,0 +1,46 @@
+ <html>
+  <head>
+    <title>Frida Khalo</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-xs-12">           
+            <h1 class="text-center">Frida Khalo</h1>            
+            <h2 class="text-center"><em>Woment inpired in Mexico Artifacts</em></h2>
+       <div class="thumbnail"><img src="https://uploads4.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calder%C3%B3n-de-rivera/self-portrait-with-necklace-of-thorns-1940.jpg!Portrait.jpg">
+     <div class="caption text-center">Frida Khalo mostly painted self-portraits after she was injured in a bus accident </div>
+            </div>
+            <div>
+      <h3 class="text-center">This makes Frida Khalo unique</h3>
+  <p> Frida Khalo suffere a bus accidet, in the accident she was injured in her hip and suffered other sirius injuries.While she was on her recobery she finished her self portrait.In all her career as painter she painted 143 paintings, 55 being self portraits. Her art has been called folk art due to traditional elements and some call it Surrealist though Kahlo herself said "They thought I was a Surrealist, but I wasn't. I never painted dreams. I painted my own reality." She is admirable because in the movies you can se,  that she was a hard worker even though she coudl't move in sometime because of her accident and the sickness polio, that she got when she was 6 years old. </p>
+      </div><div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+ <h3 class="text-center">Here is a Time Line of Frida Khalo</h3>
+    <ul>
+     <li><strong>6 1907</strong>-Frida Kahlo is Born as Magdalena Carmen Frieda Kahlo y Calderón. </li>
+    <li><strong>1913</strong> - Frida Kahlo is Diagnosed with Polio. </li>
+                <li><strong>1920</strong> - Frida Kahlo Attends the National Preparatory School. </li>
+                <li><strong>17 1925</strong> - Frida Kahlo Involved in Bus Accident. </li>
+                <li><strong>1926</strong>. -Frida Kahlo Starts Painting. </li> 
+                </lu>
+              <blockquote>
+                <p><em>"They thought I was a Surrealist, but I wasn't. I never painted dreams. I painted my own reality."</em></p>
+                <footer><cite>Frida Khalo</cite></footer>
+              </blockquote>
+              <h3>you should go look more imformation about this grat peinter Frida Khalo in<a href="https://mymodernmet.com/frida-kahlo-fact" target="_blank"> Frida facts</a>.</h3> 
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="text-center">
+        <hr>
+        <p>Writed and coded by Dayana Gonzalez </p>
+      </footer>
+    </div>
+  </body>
+</html>
+
